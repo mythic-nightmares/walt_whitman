@@ -1,0 +1,63 @@
+a{
+    text-decoration: none;
+    color: #1F0318;
+    
+    float: left;
+}
+
+ul{
+    list-style-type: none;
+}
+
+body{
+    background-color: var(--wf-background-color);
+}
+
+.criteria{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #7F534B;
+}
+
+.wf-label{
+    float: left;
+    color: #1F0318;
+
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.wf-menu-btn{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.wf-menu-btn:hover{
+    background-color: #8C705F;
+}
+
+#baby_picture {
+    display: block;
+    margin: auto;
+}
+
+#preteen {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #A99985;
+}
+
+p {
+    color:#5A3A31;
+}
+
+body {
+    background-color: #DAD2BC;
+}
